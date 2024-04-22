@@ -1,0 +1,58 @@
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+
+.pdf{
+    background-color: #383836;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.ejercicio{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.imagenes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    gap: 1em;
+    padding: 0;
+}
+
+.ejercicio9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.imagen{
+    width: 20em;
+    height: 20em;
+}
+
+.dado{
+    width: 8em;
+    height: 8em;
+}

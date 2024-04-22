@@ -1,0 +1,24 @@
+
+Ejercicio 2: Binomio cuadrado perfecto
+Cree una función llamada binomioCuadradoPerfecto que realice la ecuación de dicha problemática:
+recibe dos parámetros y devuelve el cuadrado de la suma de ambos (a+b)
+2
+a) función binomioCuadradoPerfecto_a($a, $b): Resuelva la solución utilizando la función de
+potencia
+b) función binomioCuadradoPerfecto_b($a, $b): Resuelva la solución utilizando la fórmula
+desarrollada del binomio: a
+2 + 2*a*b + b
+2
+Ejercicio 3: Concatenar textos
+Cree una función concatenar($texto1, $texto2) que reciba dos textos como parámetro y devuelva
+ambos textos concatenados como uno solo.
+Ejercicio 4: Incrementar
+Cree una función llamada incrementar, que reciba una variable y sin devolver nada como retorno de
+la función, el valor del parámetro haya sido incrementado en 1
+(Ver pasaje de parámetros por referencia)
+Ejercicio 5: Sumatoria
+Cree una función sumatoria que reciba un vector cómo parámetro, y devuelva la suma de todos sus
+valores.
+a) función sumatoria_a( $array ): Resuelva la solución utilizando la estructura de control for
+b) función sumatoria_b( $array ): Resuelva la solución utilizando la estructura for each
+c) función sumatoria_c( $array ): Resuelva la solución utilizando la estructura de control while
